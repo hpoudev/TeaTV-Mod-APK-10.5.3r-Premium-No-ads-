@@ -1,5 +1,4 @@
-# Proweb PHP Proxy
-
+# thus php libraries
 This proxy script allows you to forward all HTTP/HTTPS requests to another server. Works for all common request types 
 including GET, POST requests with files, PATCH and PUT requests. It has minimal set of requirements 
 (PHP >=5.6, libcurl, gzip) which are available even on the smallest free hostings and has its own simple authorization 
